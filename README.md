@@ -10,3 +10,6 @@ npm run serve -- --name=activityName
 
 打包编译
 npm run build -- --name=activityName
+
+## END
+如果对你的学习或是工作有帮助 可以star支持一下
