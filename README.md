@@ -1,24 +1,12 @@
 # multi-h5-projects
+多个独立h5活动页脚手架
 
-## Project setup
-```
-npm install
-```
+## 使用说明
+创建活动
+npm run create-activity activityName
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+启动活动
+npm run serve -- --name=activityName
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+打包编译
+npm run build -- --name=activityName
